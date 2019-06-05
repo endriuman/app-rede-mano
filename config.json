@@ -21,9 +21,9 @@
       },
       {
         "title":"Facebook",
-        "provider":"facebook",
+        "provider":"webview",
         "arguments":[
-          "1510426022582426"
+          "https://www.facebook.com/programamanosantana/"
         ]
       },
       {
